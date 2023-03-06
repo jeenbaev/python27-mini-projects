@@ -40,3 +40,10 @@ price = product_card.find('span', {'itemprop':'price'}).text
 # print(price)
 data = {'title': title, 'image': image, 'price': price}
 print(data)
+
+
+# . venv/bin/activate
+
+
+
+
